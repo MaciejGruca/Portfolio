@@ -32,7 +32,7 @@ Teacher with 5 years of experience in teaching mathematics and computer science.
 
 ## Technical Books
 - Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
-- Testowanie Oprogramowania https://pwicherski.gitbook.io/ - Piotr Wicherski
+- [Testowanie Oprogramowania](https://pwicherski.gitbook.io/) - Piotr Wicherski
 - Zawód tester - Radosław Smiglin 
 - Pasja testowania. Wydanie II rozszerzone - Krzysztof Jadczyk
 - Testowanie full stack. Praktyczny przewodnik dostarczania oprogramowania wysokiej jakości - Gayathri Mohan
