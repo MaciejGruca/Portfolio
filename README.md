@@ -16,11 +16,11 @@ Teacher with 5 years of experience in teaching mathematics and computer science.
 - Javascript (in progress)
 
 ## Crowd Testing
-uTest testing platform 
+uTest 
 - completion of academy courses
 - participation in test cycles (writing test cases, reporting bugs)
   
-Test.io testing platform
+Test.io 
 - completion of onboarding courses
   
 ## My Test Documentation
