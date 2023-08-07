@@ -18,6 +18,7 @@ Teacher with 5 years of experience in teaching mathematics and computer science.
 ## My Test Documentation
 
 ## Projects
+- [DVD rental store (Sakila DB) analysis using MySQL](SQL/sakila_analysis.sql) 
 
 ## Courses
 - Utest Academy
