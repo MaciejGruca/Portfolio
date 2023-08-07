@@ -22,6 +22,11 @@ uTest
   
 Test.io 
 - completion of onboarding courses
+
+Cherry.IT
+COLT collaborative testing - 4 weeks testing project 
+- cooperation with other testers
+- gaining knowledge from an experienced tester
   
 ## My Test Documentation
 
