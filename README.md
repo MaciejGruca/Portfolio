@@ -29,6 +29,8 @@ COLT collaborative testing - 4 weeks testing project
 - gaining knowledge from an experienced tester
   
 ## My Test Documentation
+- [Test Cases](https://drive.google.com/drive/folders/1e1644prVW2cMPzHLpDnhpjKsoTDpOc5w?usp=sharing)
+- [Bug Reports](https://drive.google.com/drive/folders/1_ujhPQKqegyXZotFydw8NPWZDAhWBuQI?usp=sharing)
 
 ## Projects
 - [DVD rental store (Sakila DB) analysis using MySQL](SQL/sakila_analysis.sql) 
